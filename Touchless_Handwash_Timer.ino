@@ -3,8 +3,11 @@
 // First, you will need library of pitches
 #include "pitches.h"
 
-/* Second, you should create an array for melody notes and their durations,
+/*
+
+Second, you should create an array for melody notes and their durations,
 but the array of the melody notes and durations HAVE TO have the same size.
+
 */
 
 
